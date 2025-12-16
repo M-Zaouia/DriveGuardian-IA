@@ -1,0 +1,21 @@
+# Python / venv
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data lourde
+data/raw_videos/
+data/metrics/
+data/reports/
+data/figures/
+
+# Fichiers lourds
+*.mp4
+*.avi
+*.mkv
+*.csv
+
+# OS / IDE
+.vscode/
+.DS_Store
