@@ -69,5 +69,5 @@ pip install -r requirements.txt
 python -c "import cv2, numpy; import matplotlib.pyplot as plt; print('OK: OpenCV / NumPy / Matplotlib')"
 
 
->>>>>>> 12f24a9 (Update project files)
+
 
